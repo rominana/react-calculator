@@ -1,3 +1,5 @@
+# Calculator
+This project is a calculator using React as a part of the FreeCodeCamp curriculum.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
